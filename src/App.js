@@ -26,7 +26,7 @@ export default function App() {
                 Reports</li>
             </ul>
             <div class="d-grid">
-              <a href="#" class="btn btn-primary text-uppercase">Button</a>
+              <a href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" class="btn btn-primary text-uppercase">Button</a>
             </div>
           </div>
         </div>
@@ -49,7 +49,7 @@ export default function App() {
                 Reports</li>
             </ul>
             <div class="d-grid">
-              <a href="#" class="btn btn-primary text-uppercase">Button</a>
+              <a href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" class="btn btn-primary text-uppercase">Button</a>
             </div>
           </div>
         </div>
@@ -73,7 +73,7 @@ export default function App() {
               <li><span class="fa-li"><i class="fas fa-check"></i></span>Monthly Status Reports</li>
             </ul>
             <div class="d-grid">
-              <a href="#" class="btn btn-primary text-uppercase">Button</a>
+              <a href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" class="btn btn-primary text-uppercase">Button</a>
             </div>
           </div>
         </div>
